@@ -1,4 +1,4 @@
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" alt="Master Banner Image" style="width:100%; height:auto;" />
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif" alt="Master Banner Image" style="width:100%; height:auto;" />
 <h1 align="center">Hi 👋, I'm Mayur0018</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align ="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1724457600&semt=ais_hybrid"></img>
