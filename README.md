@@ -37,9 +37,6 @@
 ---
 
 # 🌐 Connect With Me
-
-# 🌐 Connect With Me
-
 <p align="center">
   <a href="https://linkedin.com/in/your-link" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" />
@@ -53,8 +50,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
   </a>
 </p>
----
-
 # 🚀 Tech Stack
 
 <p align="center">
