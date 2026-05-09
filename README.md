@@ -33,3 +33,14 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayur0018&" alt="mayur0018" /></p>
 
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
+<h4 align="center">Show some ❤️ by starring repositories!</h4>
