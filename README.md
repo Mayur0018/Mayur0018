@@ -26,19 +26,21 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/mayur-nishad" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
-</a>
+<h2>🌐 Connect With Me</h2>
 
-<a href="https://instagram.com/45.mayurr" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" height="40" width="40" />
-</a>
+<div class="social-icons">
+  <a href="https://linkedin.com/in/your-link" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </a>
 
-<a href="https://github.com/mayur0018" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="40" width="40" />
-</a>
-</p>
+  <a href="https://instagram.com/your-link" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
+  </a>
+
+  <a href="https://github.com/your-link" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  </a>
+</div>
 
 ---
 
