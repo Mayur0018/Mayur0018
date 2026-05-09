@@ -105,67 +105,6 @@
 />
 
 </p>
-
----
-
-# 📌 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%">
-
-<h3 align="center">🌐 Portfolio Website</h3>
-
-<div align="center">
-
-<a href="https://new-portfolio-kappa-three.vercel.app/" target="_blank">
-
-<img
-  src="https://cdn.dribbble.com/userupload/42224832/file/original-c65d4d7b1f4dd7c91b5aef2e70e5c9c3.gif"
-  width="100%"
-/>
-
-</a>
-
-<br/>
-<br/>
-
-<p>
-Modern responsive portfolio website built using React & Tailwind CSS.
-</p>
-
-</div>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">⚡ Admin Dashboard</h3>
-
-<div align="center">
-
-<img
-  src="https://cdn.dribbble.com/userupload/41336487/file/original-7d1c14f6ec2e5374c56f75f6fd1ab46b.gif"
-  width="100%"
-/>
-
-<br/>
-<br/>
-
-<p>
-Responsive admin dashboard with charts, filters, and API integration.
-</p>
-
-</div>
-
-</td>
-
-</tr>
-</table>
-
----
-
 # 🎯 Features Added
 
 ✅ Animated typing effect  
